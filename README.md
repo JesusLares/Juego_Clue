@@ -1,14 +1,15 @@
 # Juego Clue
 
-Este es un proyecto escolar. Es una simulación del juego de mesa Clue con unas historias distintas.
+Este es un proyecto es una simulación del juego de mesa Clue con unas historias distintas.
 
-Link del video explicando el funcionamiento: https://www.youtube.com/watch?v=SjydRmAMbB4&ab_channel=RobertoJ%C3%A1uregui
 
-## Historia del juego
+
+## Información del juego
+### Historia
 
 En una reunión se juntaron 6 personas (el esposo, la esposa, el genio, el maestro, la cocinera, el jardinero), al concluir la noche se percataron de que el esposo estaba muerto por lo que se llamó a un detective para revisar las escenas del crimen y así arrestar al asesino.
 
-## Como jugar
+### Como jugar
 
 - Tendrás 10 preguntas en las cuales cada una te dará una pista acerca de lo que estaba haciendo esa noche, si descubres quien es el asesino antes de que estas 10 preguntas concluyan podrás verificar tu respuesta.
 - Tendrás 3 tipos de pregunta que son sobre los personajes, las armas y los lugares.
@@ -17,36 +18,23 @@ En una reunión se juntaron 6 personas (el esposo, la esposa, el genio, el maest
 - Si aciertas las 3 podrás ganar el juego
 - Al final te dará dos explicaciones, la primera es una corta donde generaliza el por qué sucedió y en la segunda te cuenta todo lo que sucedió esa noche
 
-## De lo que puedes recibir pistas
+### De lo que puedes recibir pistas
+| Personajes | Armas | Lugares |
+| ------ | ------ | ------ |
+| Esposa | Pildora | Dormitorio | 
+| Genio | Pistola | Cuarto de herramientas |
+| Cocinera | Cuchillo | Cocina |
+| Jardinero | Machete | Oficina |
+| Maestro | Bat de beisbol | Patio |
 
-### Personajes
 
-- Esposa
-- Genio
-- Cocinera
-- Jardinero
-- Maestro
-
-### Armas
-
-- Pildora
-- Pistola
-- Cuchillo
-- Machete
-- Bat de beisbol
-
-### Lugares
-
-- Cocina
-- Dormitorio
-- Cuarto de herramientas
-- Oficina
-- Patio
-
-## Participantes
+## Colaboradores
 
 Este proyecto se hizo con la ayuda de:
 
-- Roberto Jauregui Arteaga **18310152**
-- Jacob Alejandro Barba Hernández **18310035**
-- Jesús Lares Contreras **18310448**
+- [Roberto Jauregui Arteaga](https://github.com/Chaylander)
+- [Jacob Alejandro Barba Hernández](https://github.com/JacobBarba99)
+- [Jesús Lares Contreras](https://github.com/Jesus-Lares)
+
+
+MIT Public License v3.0. No puede usarse comercialmente
